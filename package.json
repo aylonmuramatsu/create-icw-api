@@ -1,0 +1,35 @@
+{
+  "name": "create-icw-api",
+  "version": "1.0.0",
+  "description": "CLI para criar novos projetos ICW API - Wrapper para @insightcreativewebs/create-icw-api",
+  "main": "index.js",
+  "bin": {
+    "create-icw-api": "./bin/create-icw-api.js"
+  },
+  "keywords": [
+    "cli",
+    "api",
+    "framework",
+    "icw",
+    "typescript",
+    "express",
+    "rest",
+    "boilerplate",
+    "scaffold"
+  ],
+  "author": "Aylon Muramatsu <aylon.muramatsu@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aylonmuramatsu/create-icw-api.git"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "bin",
+    "README.md",
+    "package.json"
+  ]
+}
+

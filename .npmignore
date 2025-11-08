@@ -1,0 +1,32 @@
+# Arquivos de desenvolvimento
+node_modules/
+*.log
+.DS_Store
+.env
+.env.*
+
+# Git
+.git/
+.gitignore
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Testes
+test/
+tests/
+*.test.js
+*.spec.js
+
+# Documentação de desenvolvimento
+docs/
+*.md
+!README.md
+
+# Arquivos temporários
+.temp-*
+*.tmp
+
